@@ -11,4 +11,4 @@ I am a results-driven data analyst and scientist with a passion for translating 
 🔗**Survey & Research Tools:** Experienced in designing and analyzing surveys using Google Forms  
 🔗**Soft Skills:** Strong critical thinking, problem-solving abilities, collaborative teamwork, effective communication, attention to detail, and polished presentation skills    
 
-I take a structured, insight-driven approach to every project—working to not only interpret data but to turn it into strategic solutions that foster growth, efficiency, and innovation. Whether supporting business decisions or driving research outcomes, I’m committed to delivering clarity and value through data.  
+I take a structured, insight-driven approach to every project-working to not only interpret data but to turn it into strategic solutions that foster growth, efficiency, and innovation. Whether supporting business decisions or driving research outcomes, I’m committed to delivering clarity and value through data.  
