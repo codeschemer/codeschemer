@@ -12,3 +12,7 @@ I am a results-driven data analyst and scientist with a passion for translating 
 🔗**Soft Skills:** Strong critical thinking, problem-solving abilities, collaborative teamwork, effective communication, attention to detail, and polished presentation skills    
 
 I take a structured, insight-driven approach to every project-working to not only interpret data but to turn it into strategic solutions that foster growth, efficiency, and innovation. Whether supporting business decisions or driving research outcomes, I’m committed to delivering clarity and value through data.  
+
+
+<!-- Github stats from https://github.com/codeschemer/github-readme-stats -->
+[![Henry Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeschemer&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
