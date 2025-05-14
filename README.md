@@ -4,7 +4,8 @@ I am a results-driven data analyst and scientist with a passion for translating 
 
 🔧 **Core Competencies**  
 
-🔗**Analytical and Reporting Tools:** Proficient in Microsoft 365, Tableau, Power BI, and IBM SPSS    
+🔗**Analytical and Reporting Tools:** Proficient in Microsoft 365, Tableau, Power BI, and IBM SPSS   
+🔗**Microsoft Ecosystem & AI Tools:** Advanced in Office 365 (Excel, Word, PowerPoint), experienced with SharePoint, Power Automate, Power Apps, and Azure AI tools including Copilot integration.  
 🔗**Programming Skills:** Experienced in Python and R for data analysis and machine learning  
 🔗**Data Management & Techniques:** Skilled in data cleaning, statistical analysis, predictive modeling, visualization, and storytelling using platforms like Google BigQuery.    
 🔗**Database Management:** Strong command of SQL for querying and managing complex datasets, Azure Cloud management.    
