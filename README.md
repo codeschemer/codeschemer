@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, 👋 I am Henry Charles Sawok,  
 
-<!--
-**codeschemer/codeschemer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a results-driven data analyst and scientist with a passion for translating raw data into clear, actionable insights. With a solid foundation in data analysis, programming, and visualization, I help organizations uncover patterns, streamline processes, and make informed, data-backed decisions.  
 
-Here are some ideas to get you started:
+🔧 **Core Competencies**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗**Analytical and Reporting Tools:** Proficient in Microsoft 365, Tableau, Power BI, and IBM SPSS    
+🔗**Programming Skills:** Experienced in Python and R for data analysis and machine learning  
+🔗**Data Management & Techniques:** Skilled in data cleaning, statistical analysis, predictive modeling, visualization, and storytelling using platforms like Google BigQuery.    
+🔗**Database Management:** Strong command of SQL for querying and managing complex datasets, Azure Cloud management.    
+🔗**Survey & Research Tools:** Experienced in designing and analyzing surveys using Google Forms  
+🔗**Soft Skills:** Strong critical thinking, problem-solving abilities, collaborative teamwork, effective communication, attention to detail, and polished presentation skills    
+
+I take a structured, insight-driven approach to every project—working to not only interpret data but to turn it into strategic solutions that foster growth, efficiency, and innovation. Whether supporting business decisions or driving research outcomes, I’m committed to delivering clarity and value through data.  
